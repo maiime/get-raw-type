@@ -1,6 +1,6 @@
 {
   "name": "get-raw-type",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "get data raw type.",
   "main": "index.js",
   "scripts": {
